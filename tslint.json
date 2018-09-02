@@ -1,0 +1,8 @@
+{
+  "defaultSeverity": "warning",
+  "rules": {
+    "semicolon": [false, "never"],
+    "quotemark": [true, "single", "jsx-double"],
+    "indent": [true, "spaces", 2]
+  }
+}
